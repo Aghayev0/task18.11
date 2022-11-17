@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niramit:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+.headofsite__title {
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-bottom: 15px;
+
+}
+
+.head__links {
+    text-align: center;
+    justify-content: space-between;
+    font-size: 20px;
+
+}
+.head__links a {
+    margin: 0px 5px;
+    padding: 0px 0px;
+}
+
+.main__title {
+    font-family: 'Niramit', sans-serif;
+    text-align: center;
+    color: purple;
+}
+.main__image{
+    text-align: center;
+}
+.main__image img{
+    width: 300px;
+}
+.main__image ul li{
+    list-style-type: none;
+    text-align: center;
+
+}
+.main__image ul{
+    padding: 0%;
+}
+.price{
+    font-family: 'Kalam', cursive;
+    color: green;
+    
+
+}

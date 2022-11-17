@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niramit:wght@600&display=swap');
+.headofsite__title{
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-bottom: 15px;
+    
+}
+.head__links{
+    text-align: center;
+    justify-content: space-between;
+    font-size: 20px;
+    
+}
+.head__links a{
+    margin: 0px 5px;
+    padding: 0px 0px ;
+}
+.main__site{
+    color: purple;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.main__letter{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    font-family: 'Niramit', sans-serif;
+}
+.main__product{
+    list-style-position:inside;
+    text-align: center;
+}
+.main__product p{
+    color: rgb(124, 124, 2);
+    font-family: 'Niramit', sans-serif;
+    font-size: 16px;
+}
+.main__product ul li{
+    font-family: 'Niramit', sans-serif; 
+}
